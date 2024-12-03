@@ -1,0 +1,4 @@
+# This ignores the unnecessary files
+# and also the large files
+node_module/*
+redis-6.0.10/*
